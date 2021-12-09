@@ -1,0 +1,17 @@
+body{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/689/962/509/background-stain-shadow-color-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+
+table{
+
+    background-color: rgb(35, 121, 121);
+    border-radius: 5px;
+    color: white;
+    
+}
